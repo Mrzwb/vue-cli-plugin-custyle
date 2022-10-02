@@ -1,0 +1,101 @@
+/*************************************
+ *       Color - 色系
+ *************************************/
+ $cl-base: #e60027;        // 标准色
+ $cl-orange: #ff7030;      // 橙色   
+ $cl-yellow: #ff9600;      // 黄色
+ $cl-blue: #4296ff;        // 蓝色
+ $cl-green: #2ccda7;       // 绿色
+ $cl-1: #fff2f4;
+ $cl-2: #ffeee7;
+ $cl-3: #fff4e5;
+ $cl-4: #e9f3ff;
+ $cl-5: #e0f6f1;
+ 
+ $cl-white: #fff;
+ $cl-black: #000;
+ $cl-gray-1: #333333;      // 深灰
+ $cl-gray-2: #666666;      // 中灰
+ $cl-gray-3: #999999;      // 浅灰
+ $cl-gray-4: #cccccc;      // 如：备注信息
+ $cl-gray-5: #dedede;      // 如: 输入框线条颜色
+ $cl-gray-6: #eeeeee;      // 如: 分割线
+ $cl-gray-bg: #f8f8f8;     // 如: 背景色
+ 
+ /**************************************
+  *       Font - 字体
+  ***************************************/
+ $ff: -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
+     Helvetica, Segoe UI, Arial, Roboto,'PingFang-SC-Medium','PingFang SC', 'miui', 'Hiragino Sans GB',
+     'Microsoft Yahei', sans-serif;
+ 
+ $fc: #333333;           //主信息
+ $fc-sub: #999999;       //副标题
+ $fc-week: #cccccc;      //弱文字
+ $fc-main: #e60027;      //主色字
+ 
+ $fs-10: 10px;
+ $fs-12: 12px;
+ $fs-14: 14px;
+ $fs-16: 16px;
+ $fs-18: 18px;
+ $fs-20: 20px;
+ $fs-22: 22px;
+ $fs-24: 24px;
+ 
+ $fw-5: 500;
+ $fw-6: 600;
+ $fw-7: 700;
+ 
+ /**************************************
+  *       Padding - 内边距
+  ***************************************/
+ $pd: 4px;
+ $pd-2: $pd * 2;
+ $pd-3: $pd * 3;
+ $pd-4: $pd * 4;
+ $pd-5: $pd * 5;
+ $pd-6: $pd * 6;
+ $pd-8: $pd * 8;
+ 
+ /**************************************
+  *       Margin - 内边距
+  ***************************************/
+ $mg-base: 4px;
+ $mg: $mg-base;
+ $mg-8:  $mg-base * 2;
+ $mg-12: $mg-base * 3;
+ $mg-16: $mg-base * 4;
+ $mg-20: $mg-base * 5;
+ $mg-24: $mg-base * 6;
+ $mg-28: $mg-base * 7;
+ $mg-32: $mg-base * 8;
+ $mg-36: $mg-base * 9;
+ $mg-48: $mg-base * 12;
+ 
+ /**************************************
+  *       Border - 边框
+  ***************************************/
+ $br-base: 2px;
+ $br:    $br-base;
+ $br-4:  $br-base * 2;
+ $br-6:  $br-base * 3;
+ $br-8:  $br-base * 4;
+ $br-10: $br-base * 5;
+ $br-12: $br-base * 6;
+ $br-14: $br-base * 7;
+ $br-16: $br-base * 8;
+ $br-18: $br-base * 9;
+ $br-20: $br-base * 10;
+ $br-22: $br-base * 11;
+ $br-24: $br-base * 12;
+ $br-32: $br-base * 16;
+ $br-max: 999px;
+ 
+ /**************************************
+  *       Overlayer - 蒙层
+  ***************************************/
+ $pop-color-3: rgba(0,0,0,.3);    // 弹出 30%蒙层
+ $pop-color-5: rgba(0,0,0,.5);    // 弹出 50%蒙层
+ $tt-color: rgba(0,0,0,.75);      // 吐司 蒙层
+ 

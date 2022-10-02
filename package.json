@@ -1,0 +1,27 @@
+{
+    "name": "vue-cli-plugin-custyle",
+    "version": "0.1.10",
+    "description": "an vue-cli plugin to add cu-style to Vue2 based project",
+    "main": "index.js",
+    "author": "Wenbin Zhou",
+    "license": "MIT",
+    "keywords": [
+        "vue",
+        "cli",
+        "cu",
+        "style",
+        "less",
+        "scss"
+    ],
+    "scripts": {},
+    "dependencies": {
+        "@vue/cli-shared-utils": "^4.5.12"
+    },
+    "devDependencies": {
+        "@vue/cli-test-utils": "^4.5.12"
+    },
+    "peerDependencies": {
+        "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
+    },
+    "repository": {}
+}
