@@ -1,6 +1,6 @@
 Introduction
 ===
-an vue-cli plugin to add cu-style to Vue2 based project.
+an vue-cli plugin to add cu-style to project based Vue2.
 
 supports:
    1) postcss-pxtorem or postcss-px-to-viewport plugin  
